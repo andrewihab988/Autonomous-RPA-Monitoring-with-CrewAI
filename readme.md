@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![CrewAI](https://img.shields.io/badge/CrewAI-Latest-green)](https://www.crewai.com/)
 [![License](https://img.shields.io/badge/License-MIT-purple)](LICENSE)
+![Autonomous RPA Monitoring with CrewAI Diagram](https://ik.imagekit.io/azeveytqm/Gemini_Generated_Image_d93kegd93kegd93k.jpeg?updatedAt=1761995712549)
 
 ## ✨ Overview
 
@@ -41,7 +42,6 @@ The system operates as a sequential CrewAI workflow:
     * **Input:** The JSON output from the UiPath Orchestrator Agent.
     * **Output:** A summary of logs found in Kibana, highlighting key information for debugging.
 
-![Autonomous RPA Monitoring with CrewAI Diagram](https://ik.imagekit.io/azeveytqm/Gemini_Generated_Image_d93kegd93kegd93k.jpeg?updatedAt=1761995712549)
 
 ## 🛠️ Technologies Used
 
