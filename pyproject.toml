@@ -1,0 +1,14 @@
+[project]
+name = "autonomous-rpa-monitor"
+version = "0.1.0"
+description = "Autonomous AI agents (CrewAI) for monitoring UiPath jobs and querying Kibana logs. 100% local."
+dependencies = [
+    "crewai>=0.30.0",
+    "crewai-tools>=0.1.0", # For the @tool decorator
+    "requests>=2.31.0",  # For API calls
+]
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
