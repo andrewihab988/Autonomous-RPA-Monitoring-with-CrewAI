@@ -143,7 +143,7 @@ POST /_security/api_key
   }
 }
 ```
-*Copy the `id` and `api_key` from the response immediately.
+* Copy the `id` and `api_key` from the response immediately.
 **2. Set Environment Variables:**
 ``` Bash
 export KIBANA_API_ID="your_api_key_id_from_kibana_response"
